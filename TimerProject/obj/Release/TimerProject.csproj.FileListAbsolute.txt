@@ -1,0 +1,8 @@
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\bin\Release\TimerProject.exe.config
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\bin\Release\TimerProject.exe
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\bin\Release\TimerProject.pdb
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\obj\Release\TimerProject.Form1.resources
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\obj\Release\TimerProject.Properties.Resources.resources
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\obj\Release\TimerProject.csproj.GenerateResource.Cache
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\obj\Release\TimerProject.exe
+C:\Users\YuYin\Desktop\Visual Studio Project\TimerProject\TimerProject\obj\Release\TimerProject.pdb
